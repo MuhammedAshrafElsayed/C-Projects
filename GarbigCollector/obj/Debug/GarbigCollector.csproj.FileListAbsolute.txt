@@ -1,0 +1,8 @@
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\bin\Debug\GarbigCollector.exe.config
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\bin\Debug\GarbigCollector.exe
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\bin\Debug\GarbigCollector.pdb
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\obj\Debug\GarbigCollector.csprojResolveAssemblyReference.cache
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\obj\Debug\GarbigCollector.Properties.Resources.resources
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\obj\Debug\GarbigCollector.csproj.GenerateResource.Cache
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\obj\Debug\GarbigCollector.exe
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GarbigCollector\obj\Debug\GarbigCollector.pdb

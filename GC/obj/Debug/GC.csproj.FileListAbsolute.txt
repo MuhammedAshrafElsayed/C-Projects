@@ -1,0 +1,6 @@
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GC\bin\Debug\GC.exe.config
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GC\bin\Debug\GC.exe
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GC\bin\Debug\GC.pdb
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GC\obj\Debug\GC.exe
+c:\users\ashote\documents\visual studio 2015\Projects\GarbigCollector\GC\obj\Debug\GC.pdb
+C:\Users\Ashote\Documents\Visual Studio 2015\Projects\GarbigCollector\GC\obj\Debug\GC.csprojResolveAssemblyReference.cache
